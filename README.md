@@ -18,9 +18,9 @@ Règles du challenge :
 
 * Les données doivent être explorées à l’aide de Python et de ses librairies. 
 * Vous soumettrez votre analyse sous forme de présentation, contenant les informations suivantes :
-** Présentation générale du jeu de données
-** Démarche méthodologique d’analyse de données 
-** Synthèse de l’analyse de données
+- Présentation générale du jeu de données
+- Démarche méthodologique d’analyse de données 
+- Synthèse de l’analyse de données
 
 * Le second livrable prendra la forme d’un Notebook Jupyter. Le Notebook sera documenté pour expliciter les différents traitements, calculs ou graphiques que vous effectuez en utilisant les fonctionnalités d’édition de texte de Jupyter. Vos explications doivent permettre à un public non technique de comprendre les différentes étapes de votre analyse et votre synthèse.
 
